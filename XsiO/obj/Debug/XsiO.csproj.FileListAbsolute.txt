@@ -1,0 +1,28 @@
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\bin\Debug\XsiO.exe.config
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\bin\Debug\XsiO.exe
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\bin\Debug\XsiO.pdb
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\obj\Debug\XsiO.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\obj\Debug\XsiO.Form1.resources
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\obj\Debug\XsiO.Properties.Resources.resources
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\obj\Debug\XsiO.csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\obj\Debug\XsiO.exe
+C:\Users\Win10\Desktop\New folder\XsiO\XsiO\obj\Debug\XsiO.pdb
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\bin\Debug\XsiO.exe.config
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\obj\Debug\XsiO.exe
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\obj\Debug\XsiO.pdb
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\bin\Debug\XsiO.exe
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\bin\Debug\XsiO.pdb
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\obj\Debug\XsiO.csprojResolveAssemblyReference.cache
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\obj\Debug\XsiO.Form1.resources
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\obj\Debug\XsiO.Properties.Resources.resources
+F:\FACULTATE\z-MSP Microsoft Student Partners\CURSURI teaching\XsiO\XsiO\XsiO\obj\Debug\XsiO.csproj.GenerateResource.Cache
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\bin\Debug\XsiO.exe.config
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\obj\Debug\XsiO.exe
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\obj\Debug\XsiO.pdb
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\bin\Debug\XsiO.exe
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\bin\Debug\XsiO.pdb
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\bin\Debug\nunit.framework.dll
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\bin\Debug\nunit.framework.xml
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\obj\Debug\XsiO.Properties.Resources.resources
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\obj\Debug\XsiO.csproj.GenerateResource.Cache
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiO\obj\Debug\XsiO.Tabla.resources

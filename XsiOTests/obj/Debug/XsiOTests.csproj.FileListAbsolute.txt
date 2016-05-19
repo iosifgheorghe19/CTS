@@ -1,0 +1,9 @@
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\bin\Debug\XsiOTests.dll
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\bin\Debug\XsiOTests.pdb
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\bin\Debug\nunit.framework.dll
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\bin\Debug\XsiO.exe
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\bin\Debug\XsiO.pdb
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\bin\Debug\nunit.framework.xml
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\obj\Debug\XsiOTests.csprojResolveAssemblyReference.cache
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\obj\Debug\XsiOTests.dll
+C:\D---\FACULTATE\CTS\XsiO\XsiO\XsiOTests\obj\Debug\XsiOTests.pdb
